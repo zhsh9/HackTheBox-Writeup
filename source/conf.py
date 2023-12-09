@@ -7,8 +7,8 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = 'HackTheBox Writeup'
-copyright = '2023, Writeups by zhsh9 is licensed under CC BY-NC-SA 4.0'
-author = 'zhsh9'
+copyright = '2023. Writeups by qwe are licensed under CC BY-NC-SA 4.0'
+author = 'qwe'
 release = '0.0.1'
 language = 'en'
 
