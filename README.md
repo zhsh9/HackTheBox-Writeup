@@ -2,6 +2,15 @@
 
 ## Linux Boxes
 
+| Box Name           | HackTheBox Link                                            | Writeup                                                      |
+| ------------------ | ---------------------------------------------------------- | ------------------------------------------------------------ |
+| Lame               | [Lame](https://app.hackthebox.com/machines/Lame)           | [Lame](https://htbwp.readthedocs.io/en/latest/linux/Lame.html) |
+| Brainfuck (Insane) | [Brainfuck](https://app.hackthebox.com/machines/Brainfuck) | [Brainfuck](https://htbwp.readthedocs.io/en/latest/linux/Brainfuck.html) |
+| Shocker            | [Shocker](https://app.hackthebox.com/machines/Shocker)     | [Shocker](https://htbwp.readthedocs.io/en/latest/linux/Shocker.html) |
+| Bashed             | [Bashed](https://app.hackthebox.com/machines/Bashed)       | [Bashed](https://htbwp.readthedocs.io/en/latest/linux/Bashed.html) |
+| Nibbles            | [Nibbles](https://app.hackthebox.com/machines/Nibbles)     | [Nibbles](https://htbwp.readthedocs.io/en/latest/linux/Nibbles.html) |
+| Beep               | [Beep](https://app.hackthebox.com/machines/Beep)           | [Beep](https://htbwp.readthedocs.io/en/latest/linux/Beep.html) |
+
 - [x] Lame
 - [x] Brainfuck (Insane)
 - [x] Shocker
