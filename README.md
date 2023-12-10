@@ -170,7 +170,9 @@
 
 ## Windows Boxes
     
-- [x] Hospital
-- [x] Authority
-- [x] Manager
-- [x] Visual
+| Box Name  | HackTheBox Link                                            | Writeup                                                      |
+| --------- | ---------------------------------------------------------- | ------------------------------------------------------------ |
+| Hospital  | [Hospital](https://app.hackthebox.com/machines/Hospital)   | [Hospital](https://htbwp.readthedocs.io/en/latest/season3/windows/Hospital.html#) |
+| Authority | [Authority](https://app.hackthebox.com/machines/Authority) | [Authority](https://htbwp.readthedocs.io/en/latest/season3/windows/Authority.html#) |
+| Manager   | [Manager](https://app.hackthebox.com/machines/Manager)     | [Manager](https://htbwp.readthedocs.io/en/latest/season3/windows/Manager.html) |
+| Visual    | [Visual](https://app.hackthebox.com/machines/Visual)       | [Visual](https://htbwp.readthedocs.io/en/latest/season3/windows/Visual.html) |
