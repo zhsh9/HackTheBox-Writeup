@@ -2,7 +2,7 @@
 # Edit at https://www.toptal.com/developers/gitignore?templates=windows,macos,visualstudiocode
 
 # Repo build
-.build/*
+build/*
 
 ### macOS ###
 # General
