@@ -1,4 +1,12 @@
-# TODO LIST
+- [OSCP Like Boxes](#oscp-like-boxes)
+  - [Linux Boxes](#linux-boxes)
+  - [Windows Boxes](#windows-boxes)
+  - [More Challenging Boxes](#more-challenging-boxes)
+- [Open Beta Season](#open-beta-season)
+  - [Linux Boxes](#linux-boxes-1)
+  - [Windows Boxes](#windows-boxes-1)
+
+# OSCP Like Boxes
 
 ## Linux Boxes
 
