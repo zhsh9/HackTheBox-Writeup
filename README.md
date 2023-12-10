@@ -153,21 +153,24 @@
 
 ## Linux Boxes
 
-- [x] Keeper
-- [x] Clicker
-- [x] Zipping
-- [x] Drive (Hard)
-- [x] Cybermonday (Hard)
-- [x] Devvortex
-- [x] Sau
-- [x] CozyHosting
-- [x] Analytics
-- [x] Codify
-- [x] Ouija (Hard)
-    
+| Box Name           | HackTheBox Link                                              | Writeup                                                      |
+| ------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Keeper             | [Keeper](https://app.hackthebox.com/machines/Keeper)         | [Keeper](https://htbwp.readthedocs.io/en/latest/season3/linux/Keeper.html#) |
+| Clicker            | [Clicker](https://app.hackthebox.com/machines/Clicker)       | [Clicker](https://htbwp.readthedocs.io/en/latest/season3/linux/Clicker.html#) |
+| Zipping            | [Zipping](https://app.hackthebox.com/machines/Zipping)       | [Zipping](https://htbwp.readthedocs.io/en/latest/season3/linux/Zipping.html) |
+| Drive (Hard)       | [Drive](https://app.hackthebox.com/machines/Drive)           | [Drive](https://htbwp.readthedocs.io/en/latest/season3/linux/Drive.html) |
+| Cybermonday (Hard) | [Cybermonday](https://app.hackthebox.com/machines/Cybermonday) | [Cybermonday](https://htbwp.readthedocs.io/en/latest/season3/linux/Cybermonday.html) |
+| Devvortex          | [Devvortex](https://app.hackthebox.com/machines/Devvortex)   | [Devvortex](https://htbwp.readthedocs.io/en/latest/season3/linux/Devvortex.html) |
+| Sau                | [Sau](https://app.hackthebox.com/machines/Sau)               | [Sau](https://htbwp.readthedocs.io/en/latest/season3/linux/Sau.html) |
+| CozyHosting        | [CozyHosting](https://app.hackthebox.com/machines/CozyHosting) | [CozyHosting](https://htbwp.readthedocs.io/en/latest/season3/linux/CozyHosting.html) |
+| Analytics          | [Analytics](https://app.hackthebox.com/machines/Analytics)   | [Analytics](https://htbwp.readthedocs.io/en/latest/season3/linux/Analytics.html) |
+| Codify             | [Codify](https://app.hackthebox.com/machines/Codify)         | [Codify](https://htbwp.readthedocs.io/en/latest/season3/linux/Codify.html) |
+| Ouija (Hard)       | [Ouija](https://app.hackthebox.com/machines/Ouija)           | [Ouija](https://htbwp.readthedocs.io/en/latest/season3/linux/Ouija.html) |
+| Surveillance       | [Surveillance](https://app.hackthebox.com/machines/Surveillance) | [Surveillance](https://htbwp.readthedocs.io/en/latest/season3/linux/Surveillance.html) |
+
 ## Windows Boxes
     
 - [x] Hospital
 - [x] Authority
 - [x] Manager
-- [ ] Visual
+- [x] Visual
