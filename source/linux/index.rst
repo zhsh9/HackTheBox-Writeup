@@ -6,7 +6,7 @@ OSCP Like Machine: Linux Boxes
    :maxdepth: 1
 
    Lame
-   Brainfuck
+   Brainfuck (Insane) <Brainfuck>
    Shocker
    Bashed
    Nibbles
