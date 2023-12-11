@@ -12,6 +12,11 @@ Machine List
    linux/index
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 2
 
-   season3/index
+   season3/linux/index
+
+.. toctree::
+   :maxdepth: 2
+
+   season3/windows/index

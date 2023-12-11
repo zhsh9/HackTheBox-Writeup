@@ -1,4 +1,4 @@
-OSCP-Like Linux Boxes
+OSCP-Like Machine: Linux Boxes
 =======================
 
 .. toctree::
