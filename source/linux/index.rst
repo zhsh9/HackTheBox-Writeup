@@ -1,5 +1,5 @@
-OSCP-Like Machine: Linux Boxes
-=======================
+OSCP Like Machine: Linux Boxes
+==============================
 
 .. toctree::
    :numbered:
