@@ -186,7 +186,7 @@
 | CozyHosting        | [CozyHosting](https://app.hackthebox.com/machines/CozyHosting) | [CozyHosting](https://htbwp.readthedocs.io/en/latest/season3/linux/CozyHosting.html) |
 | Analytics          | [Analytics](https://app.hackthebox.com/machines/Analytics)   | [Analytics](https://htbwp.readthedocs.io/en/latest/season3/linux/Analytics.html) |
 | Codify             | [Codify](https://app.hackthebox.com/machines/Codify)         | [Codify](https://htbwp.readthedocs.io/en/latest/season3/linux/Codify.html) |
-| Ouija (Hard)       | [Ouija](https://app.hackthebox.com/machines/Ouija)           | [Ouija](https://htbwp.readthedocs.io/en/latest/season3/linux/Ouija.html) |
+| Ouija (Insane)       | [Ouija](https://app.hackthebox.com/machines/Ouija)           | [Ouija](https://htbwp.readthedocs.io/en/latest/season3/linux/Ouija.html) |
 | Surveillance       | [Surveillance](https://app.hackthebox.com/machines/Surveillance) | [Surveillance](https://htbwp.readthedocs.io/en/latest/season3/linux/Surveillance.html) |
 
 ## Windows Boxes

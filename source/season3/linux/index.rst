@@ -15,5 +15,5 @@ Open Beta Season III: Linux Boxes
     Cybermonday (Hard) <Cybermonday.md>
     Analytics
     Codify
-    Ouija (Hard) <Ouija.md>
+    Ouija (Insane) <Ouija.md>
     Surveillance
