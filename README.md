@@ -22,6 +22,7 @@
 | Nibbles            | [Nibbles](https://app.hackthebox.com/machines/Nibbles)     | [Nibbles](https://htbwp.readthedocs.io/en/latest/linux/Nibbles.html) |
 | Beep               | [Beep](https://app.hackthebox.com/machines/Beep)           | [Beep](https://htbwp.readthedocs.io/en/latest/linux/Beep.html) |
 | Cronos               | [Cronos](https://app.hackthebox.com/machines/Cronos)           | [Cronos](https://htbwp.readthedocs.io/en/latest/linux/Cronos.html) |
+| Nineveh               | [Nineveh](https://app.hackthebox.com/machines/Nineveh)           | [Nineveh](https://htbwp.readthedocs.io/en/latest/linux/Nineveh.html) |
 
 - [x] Lame
 - [x] Brainfuck (Insane)
@@ -30,7 +31,7 @@
 - [x] Nibbles
 - [x] Beep
 - [x] Cronos
-- [ ] Nineveh
+- [x] Nineveh
 - [ ] Sense
 - [ ] Solidstate
 - [ ] Node
