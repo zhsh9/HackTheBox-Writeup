@@ -12,3 +12,4 @@ OSCP Like Machine: Linux Boxes
    Nibbles
    Beep
    Cronos
+   Nineveh
