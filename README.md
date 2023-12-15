@@ -21,9 +21,10 @@
 | Bashed             | [Bashed](https://app.hackthebox.com/machines/Bashed)       | [Bashed](https://htbwp.readthedocs.io/en/latest/linux/Bashed.html) |
 | Nibbles            | [Nibbles](https://app.hackthebox.com/machines/Nibbles)     | [Nibbles](https://htbwp.readthedocs.io/en/latest/linux/Nibbles.html) |
 | Beep               | [Beep](https://app.hackthebox.com/machines/Beep)           | [Beep](https://htbwp.readthedocs.io/en/latest/linux/Beep.html) |
-| Cronos             | [Cronos](https://app.hackthebox.com/machines/Cronos)           | [Cronos](https://htbwp.readthedocs.io/en/latest/linux/Cronos.html) |
-| Nineveh            | [Nineveh](https://app.hackthebox.com/machines/Nineveh)           | [Nineveh](https://htbwp.readthedocs.io/en/latest/linux/Nineveh.html) |
-| Solidstate         | [Solidstate](https://app.hackthebox.com/machines/Solidstate)           | [Solidstate](https://htbwp.readthedocs.io/en/latest/linux/Solidstate.html) |
+| Cronos             | [Cronos](https://app.hackthebox.com/machines/Cronos)       | [Cronos](https://htbwp.readthedocs.io/en/latest/linux/Cronos.html) |
+| Nineveh            | [Nineveh](https://app.hackthebox.com/machines/Nineveh)     | [Nineveh](https://htbwp.readthedocs.io/en/latest/linux/Nineveh.html) |
+| Sense              | [Sense](https://app.hackthebox.com/machines/Sense)         | [Sense](https://htbwp.readthedocs.io/en/latest/linux/Sense.html) |
+| Solidstate         | [Solidstate](https://app.hackthebox.com/machines/Solidstate)| [Solidstate](https://htbwp.readthedocs.io/en/latest/linux/Solidstate.html) |
 
 - [x] Lame
 - [x] Brainfuck (Insane)
@@ -33,7 +34,7 @@
 - [x] Beep
 - [x] Cronos
 - [x] Nineveh
-- [ ] Sense
+- [x] Sense
 - [x] Solidstate
 - [ ] Node
 - [ ] Valentine
