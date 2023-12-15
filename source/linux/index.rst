@@ -13,3 +13,4 @@ OSCP Like Machine: Linux Boxes
    Beep
    Cronos
    Nineveh
+   Solidstate
