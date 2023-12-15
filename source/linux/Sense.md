@@ -67,13 +67,13 @@ password: company defaults
 
 ## Foothold
 
-## Default Cred for pfSense
+### Default Cred for pfSense
 
 - cred: **rohit:pfsense**
 
 ![image-20231215231853388](./Sense.assets/image-20231215231853388.png)
 
-## CVE-2014-4688
+### CVE-2014-4688
 
 system enum:
 
@@ -99,7 +99,7 @@ exploit methodology:
 
 ![image-20231215232324807](./Sense.assets/image-20231215232324807.png)
 
-## CVE-2016-10709
+### CVE-2016-10709
 
 another vulnerability for this system: [CVE-2016-10709 : pfSense before 2.3 allows remote authenticated users to execute arbitrary OS commands via a '|' character in the status_ (cvedetails.com)](https://www.cvedetails.com/cve/CVE-2016-10709/)
 

