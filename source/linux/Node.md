@@ -280,7 +280,7 @@ Above all, the exploit method is **ret2libc**.
 
 ![image-20231216204252262](./Node.assets/image-20231216204252262.png)
 
-5. write exploit script
+5. write exploit script. since ASLR is on, the actual running address of libc is randomized. therefore, keep running the same libc address to **brute force** and match the real libc address.
 
 ```python
 import subprocess
