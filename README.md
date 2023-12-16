@@ -25,6 +25,7 @@
 | Nineveh            | [Nineveh](https://app.hackthebox.com/machines/Nineveh)     | [Nineveh](https://htbwp.readthedocs.io/en/latest/linux/Nineveh.html) |
 | Sense              | [Sense](https://app.hackthebox.com/machines/Sense)         | [Sense](https://htbwp.readthedocs.io/en/latest/linux/Sense.html) |
 | Solidstate         | [Solidstate](https://app.hackthebox.com/machines/Solidstate)| [Solidstate](https://htbwp.readthedocs.io/en/latest/linux/Solidstate.html) |
+| Node               | [Node](https://app.hackthebox.com/machines/Node)           | [Node](https://htbwp.readthedocs.io/en/latest/linux/Node.html) |
 
 - [x] Lame
 - [x] Brainfuck (Insane)
@@ -36,7 +37,7 @@
 - [x] Nineveh
 - [x] Sense
 - [x] Solidstate
-- [ ] Node
+- [x] Node
 - [ ] Valentine
 - [ ] Poison
 - [ ] Sunday

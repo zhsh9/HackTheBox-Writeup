@@ -15,3 +15,4 @@ OSCP Like Machine: Linux Boxes
    Nineveh
    Sense
    Solidstate
+   Node
