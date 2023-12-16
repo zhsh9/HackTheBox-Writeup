@@ -17,3 +17,4 @@ OSCP Like Machine: Linux Boxes
    Solidstate
    Node
    Valentine
+   Poison
