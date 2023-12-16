@@ -16,3 +16,4 @@ OSCP Like Machine: Linux Boxes
    Sense
    Solidstate
    Node
+   Valentine
