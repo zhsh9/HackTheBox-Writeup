@@ -13,22 +13,23 @@
 
 ## Linux Boxes
 
-| Box Name           | HackTheBox Link                                            | Writeup                                                      |
-| ------------------ | ---------------------------------------------------------- | ------------------------------------------------------------ |
-| Lame               | [Lame](https://app.hackthebox.com/machines/Lame)           | [Lame](https://htbwp.readthedocs.io/en/latest/linux/Lame.html) |
-| Brainfuck (Insane) | [Brainfuck](https://app.hackthebox.com/machines/Brainfuck) | [Brainfuck](https://htbwp.readthedocs.io/en/latest/linux/Brainfuck.html) |
-| Shocker            | [Shocker](https://app.hackthebox.com/machines/Shocker)     | [Shocker](https://htbwp.readthedocs.io/en/latest/linux/Shocker.html) |
-| Bashed             | [Bashed](https://app.hackthebox.com/machines/Bashed)       | [Bashed](https://htbwp.readthedocs.io/en/latest/linux/Bashed.html) |
-| Nibbles            | [Nibbles](https://app.hackthebox.com/machines/Nibbles)     | [Nibbles](https://htbwp.readthedocs.io/en/latest/linux/Nibbles.html) |
-| Beep               | [Beep](https://app.hackthebox.com/machines/Beep)           | [Beep](https://htbwp.readthedocs.io/en/latest/linux/Beep.html) |
-| Cronos             | [Cronos](https://app.hackthebox.com/machines/Cronos)       | [Cronos](https://htbwp.readthedocs.io/en/latest/linux/Cronos.html) |
-| Nineveh            | [Nineveh](https://app.hackthebox.com/machines/Nineveh)     | [Nineveh](https://htbwp.readthedocs.io/en/latest/linux/Nineveh.html) |
-| Sense              | [Sense](https://app.hackthebox.com/machines/Sense)         | [Sense](https://htbwp.readthedocs.io/en/latest/linux/Sense.html) |
-| Solidstate         | [Solidstate](https://app.hackthebox.com/machines/Solidstate)| [Solidstate](https://htbwp.readthedocs.io/en/latest/linux/Solidstate.html) |
-| Node               | [Node](https://app.hackthebox.com/machines/Node)           | [Node](https://htbwp.readthedocs.io/en/latest/linux/Node.html) |
-| Valentine          | [Valentine](https://app.hackthebox.com/machines/Valentine) | [Valentine](https://htbwp.readthedocs.io/en/latest/linux/Valentine.html) |
-| Poison             | [Poison](https://app.hackthebox.com/machines/Poison)       | [Poison](https://htbwp.readthedocs.io/en/latest/linux/Poison.html) |
-| Sunday             | [Sunday](https://app.hackthebox.com/machines/Sunday)       | [Sunday](https://htbwp.readthedocs.io/en/latest/linux/Sunday.html) |
+| Box Name           | HackTheBox Link                                              | Writeup                                                      | Difficulty |
+| ------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- |
+| Lame               | [Lame](https://app.hackthebox.com/machines/Lame)             | [Lame](https://htbwp.readthedocs.io/en/latest/linux/Lame.html) | Easy       |
+| Brainfuck (Insane) | [Brainfuck](https://app.hackthebox.com/machines/Brainfuck)   | [Brainfuck](https://htbwp.readthedocs.io/en/latest/linux/Brainfuck.html) | Insane     |
+| Shocker            | [Shocker](https://app.hackthebox.com/machines/Shocker)       | [Shocker](https://htbwp.readthedocs.io/en/latest/linux/Shocker.html) | Easy       |
+| Bashed             | [Bashed](https://app.hackthebox.com/machines/Bashed)         | [Bashed](https://htbwp.readthedocs.io/en/latest/linux/Bashed.html) | Easy       |
+| Nibbles            | [Nibbles](https://app.hackthebox.com/machines/Nibbles)       | [Nibbles](https://htbwp.readthedocs.io/en/latest/linux/Nibbles.html) | Easy       |
+| Beep               | [Beep](https://app.hackthebox.com/machines/Beep)             | [Beep](https://htbwp.readthedocs.io/en/latest/linux/Beep.html) | Easy       |
+| Cronos             | [Cronos](https://app.hackthebox.com/machines/Cronos)         | [Cronos](https://htbwp.readthedocs.io/en/latest/linux/Cronos.html) | Medium     |
+| Nineveh            | [Nineveh](https://app.hackthebox.com/machines/Nineveh)       | [Nineveh](https://htbwp.readthedocs.io/en/latest/linux/Nineveh.html) | Medium     |
+| Sense              | [Sense](https://app.hackthebox.com/machines/Sense)           | [Sense](https://htbwp.readthedocs.io/en/latest/linux/Sense.html) | Easy       |
+| Solidstate         | [Solidstate](https://app.hackthebox.com/machines/Solidstate) | [Solidstate](https://htbwp.readthedocs.io/en/latest/linux/Solidstate.html) | Medium     |
+| Node               | [Node](https://app.hackthebox.com/machines/Node)             | [Node](https://htbwp.readthedocs.io/en/latest/linux/Node.html) | Medium     |
+| Valentine          | [Valentine](https://app.hackthebox.com/machines/Valentine)   | [Valentine](https://htbwp.readthedocs.io/en/latest/linux/Valentine.html) | Easy       |
+| Poison             | [Poison](https://app.hackthebox.com/machines/Poison)         | [Poison](https://htbwp.readthedocs.io/en/latest/linux/Poison.html) | Medium     |
+| Sunday             | [Sunday](https://app.hackthebox.com/machines/Sunday)         | [Sunday](https://htbwp.readthedocs.io/en/latest/linux/Sunday.html) | Easy       |
+| Tartarsauce        | [Tartarsauce](https://app.hackthebox.com/machines/Tartarsauce) | [Tartarsauce](https://htbwp.readthedocs.io/en/latest/linux/Tartarsauce.html) | Medium     |
 
 - [x] Lame
 - [x] Brainfuck (Insane)
@@ -44,7 +45,7 @@
 - [x] Valentine
 - [x] Poison
 - [x] Sunday
-- [ ] Tartarsauce
+- [x] Tartarsauce
 - [ ] Irked
 - [ ] Friendzone
 - [ ] Swagshop
