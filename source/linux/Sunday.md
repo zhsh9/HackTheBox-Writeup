@@ -2,6 +2,8 @@
 
 ## Machine Info
 
+![Sunday](./Sunday.assets/Sunday.png)
+
 ## Recon
 
 - nmap
