@@ -182,26 +182,26 @@
 
 ## Linux Boxes
 
-| Box Name           | HackTheBox Link                                              | Writeup                                                      |
-| ------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| Keeper             | [Keeper](https://app.hackthebox.com/machines/Keeper)         | [Keeper](https://htbwp.readthedocs.io/en/latest/season3/linux/Keeper.html#) |
-| Clicker            | [Clicker](https://app.hackthebox.com/machines/Clicker)       | [Clicker](https://htbwp.readthedocs.io/en/latest/season3/linux/Clicker.html#) |
-| Zipping            | [Zipping](https://app.hackthebox.com/machines/Zipping)       | [Zipping](https://htbwp.readthedocs.io/en/latest/season3/linux/Zipping.html) |
-| Drive (Hard)       | [Drive](https://app.hackthebox.com/machines/Drive)           | [Drive](https://htbwp.readthedocs.io/en/latest/season3/linux/Drive.html) |
-| Cybermonday (Hard) | [Cybermonday](https://app.hackthebox.com/machines/Cybermonday) | [Cybermonday](https://htbwp.readthedocs.io/en/latest/season3/linux/Cybermonday.html) |
-| Devvortex          | [Devvortex](https://app.hackthebox.com/machines/Devvortex)   | [Devvortex](https://htbwp.readthedocs.io/en/latest/season3/linux/Devvortex.html) |
-| Sau                | [Sau](https://app.hackthebox.com/machines/Sau)               | [Sau](https://htbwp.readthedocs.io/en/latest/season3/linux/Sau.html) |
-| CozyHosting        | [CozyHosting](https://app.hackthebox.com/machines/CozyHosting) | [CozyHosting](https://htbwp.readthedocs.io/en/latest/season3/linux/CozyHosting.html) |
-| Analytics          | [Analytics](https://app.hackthebox.com/machines/Analytics)   | [Analytics](https://htbwp.readthedocs.io/en/latest/season3/linux/Analytics.html) |
-| Codify             | [Codify](https://app.hackthebox.com/machines/Codify)         | [Codify](https://htbwp.readthedocs.io/en/latest/season3/linux/Codify.html) |
-| Ouija (Insane)       | [Ouija](https://app.hackthebox.com/machines/Ouija)           | [Ouija](https://htbwp.readthedocs.io/en/latest/season3/linux/Ouija.html) |
-| Surveillance       | [Surveillance](https://app.hackthebox.com/machines/Surveillance) | [Surveillance](https://htbwp.readthedocs.io/en/latest/season3/linux/Surveillance.html) |
+| Box Name           | HackTheBox Link                                              | Writeup                                                      | Difficulty                                          |
+| ------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Keeper             | [Keeper](https://app.hackthebox.com/machines/Keeper)         | [Keeper](https://htbwp.readthedocs.io/en/latest/season3/linux/Keeper.html#) | Easy |
+| Clicker            | [Clicker](https://app.hackthebox.com/machines/Clicker)       | [Clicker](https://htbwp.readthedocs.io/en/latest/season3/linux/Clicker.html#) | Medium |
+| Zipping            | [Zipping](https://app.hackthebox.com/machines/Zipping)       | [Zipping](https://htbwp.readthedocs.io/en/latest/season3/linux/Zipping.html) | Medium |
+| Drive (Hard)       | [Drive](https://app.hackthebox.com/machines/Drive)           | [Drive](https://htbwp.readthedocs.io/en/latest/season3/linux/Drive.html) | Hard |
+| Cybermonday (Hard) | [Cybermonday](https://app.hackthebox.com/machines/Cybermonday) | [Cybermonday](https://htbwp.readthedocs.io/en/latest/season3/linux/Cybermonday.html) | Hard |
+| Devvortex          | [Devvortex](https://app.hackthebox.com/machines/Devvortex)   | [Devvortex](https://htbwp.readthedocs.io/en/latest/season3/linux/Devvortex.html) | Easy |
+| Sau                | [Sau](https://app.hackthebox.com/machines/Sau)               | [Sau](https://htbwp.readthedocs.io/en/latest/season3/linux/Sau.html) | Easy |
+| CozyHosting        | [CozyHosting](https://app.hackthebox.com/machines/CozyHosting) | [CozyHosting](https://htbwp.readthedocs.io/en/latest/season3/linux/CozyHosting.html) | Easy |
+| Analytics          | [Analytics](https://app.hackthebox.com/machines/Analytics)   | [Analytics](https://htbwp.readthedocs.io/en/latest/season3/linux/Analytics.html) | Easy |
+| Codify             | [Codify](https://app.hackthebox.com/machines/Codify)         | [Codify](https://htbwp.readthedocs.io/en/latest/season3/linux/Codify.html) | Easy |
+| Ouija (Insane)       | [Ouija](https://app.hackthebox.com/machines/Ouija)           | [Ouija](https://htbwp.readthedocs.io/en/latest/season3/linux/Ouija.html) | Insane |
+| Surveillance       | [Surveillance](https://app.hackthebox.com/machines/Surveillance) | [Surveillance](https://htbwp.readthedocs.io/en/latest/season3/linux/Surveillance.html) | Medium |
 
 ## Windows Boxes
     
-| Box Name  | HackTheBox Link                                            | Writeup                                                      |
-| --------- | ---------------------------------------------------------- | ------------------------------------------------------------ |
-| Hospital  | [Hospital](https://app.hackthebox.com/machines/Hospital)   | [Hospital](https://htbwp.readthedocs.io/en/latest/season3/windows/Hospital.html#) |
-| Authority | [Authority](https://app.hackthebox.com/machines/Authority) | [Authority](https://htbwp.readthedocs.io/en/latest/season3/windows/Authority.html#) |
-| Manager   | [Manager](https://app.hackthebox.com/machines/Manager)     | [Manager](https://htbwp.readthedocs.io/en/latest/season3/windows/Manager.html) |
-| Visual    | [Visual](https://app.hackthebox.com/machines/Visual)       | [Visual](https://htbwp.readthedocs.io/en/latest/season3/windows/Visual.html) |
+| Box Name  | HackTheBox Link                                            | Writeup                                                      | Difficulty |
+| --------- | ---------------------------------------------------------- | ------------------------------------------------------------ | ---------- |
+| Hospital  | [Hospital](https://app.hackthebox.com/machines/Hospital)   | [Hospital](https://htbwp.readthedocs.io/en/latest/season3/windows/Hospital.html#) | Medium     |
+| Authority | [Authority](https://app.hackthebox.com/machines/Authority) | [Authority](https://htbwp.readthedocs.io/en/latest/season3/windows/Authority.html#) | Medium     |
+| Manager   | [Manager](https://app.hackthebox.com/machines/Manager)     | [Manager](https://htbwp.readthedocs.io/en/latest/season3/windows/Manager.html) | Medium     |
+| Visual    | [Visual](https://app.hackthebox.com/machines/Visual)       | [Visual](https://htbwp.readthedocs.io/en/latest/season3/windows/Visual.html) | Medium     |

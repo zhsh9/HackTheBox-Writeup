@@ -5,7 +5,7 @@ Open Beta Season III: Windows Boxes
     :numbered:
     :maxdepth: 1
     
-    Hospital
-    Authority
-    Manager
-    Visual
+    Hospital (Medium) <Hospital>
+    Authority (Medium) <Authority>
+    Manager (Medium) <Manager>
+    Visual (Medium) <Visual>

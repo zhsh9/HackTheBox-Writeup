@@ -5,15 +5,15 @@ Open Beta Season III: Linux Boxes
     :numbered:
     :maxdepth: 1
 
-    Keeper
-    Clicker
-    Zipping
+    Keeper (Easy) <Keeper>
+    Clicker (Medium) <Clicker>
+    Zipping (Medium) <Zipping>
     Drive (Hard) <Drive.md>
-    Devvortex
-    Sau
-    CozyHosting
+    Devvortex (Easy) <Devvortex>
+    Sau (Easy) <Sau>
+    CozyHosting (Easy) <CozyHosting>
     Cybermonday (Hard) <Cybermonday.md>
-    Analytics
-    Codify
+    Analytics (Easy) <Analytics>
+    Codify (Easy) <Codify>
     Ouija (Insane) <Ouija.md>
-    Surveillance
+    Surveillance (Medium) <Surveillance>
