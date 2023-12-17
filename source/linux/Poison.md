@@ -25,7 +25,7 @@ Network Distance: 2 hops
 Service Info: OS: FreeBSD; CPE: cpe:/o:freebsd:freebsd
 ```
 
-- path recon, `[http://10.10.10.84/browse.php?file=](http://10.10.10.84/browse.php?file=listfiles.php)`
+- path recon, `http://10.10.10.84/browse.php?file=`
 
 ## Foothold
 

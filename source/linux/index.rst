@@ -18,3 +18,4 @@ OSCP Like Machine: Linux Boxes
    Node
    Valentine
    Poison
+   Sunday

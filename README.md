@@ -28,6 +28,7 @@
 | Node               | [Node](https://app.hackthebox.com/machines/Node)           | [Node](https://htbwp.readthedocs.io/en/latest/linux/Node.html) |
 | Valentine          | [Valentine](https://app.hackthebox.com/machines/Valentine) | [Valentine](https://htbwp.readthedocs.io/en/latest/linux/Valentine.html) |
 | Poison             | [Poison](https://app.hackthebox.com/machines/Poison)       | [Poison](https://htbwp.readthedocs.io/en/latest/linux/Poison.html) |
+| Sunday             | [Sunday](https://app.hackthebox.com/machines/Sunday)       | [Sunday](https://htbwp.readthedocs.io/en/latest/linux/Sunday.html) |
 
 - [x] Lame
 - [x] Brainfuck (Insane)
@@ -42,7 +43,7 @@
 - [x] Node
 - [x] Valentine
 - [x] Poison
-- [ ] Sunday
+- [x] Sunday
 - [ ] Tartarsauce
 - [ ] Irked
 - [ ] Friendzone
