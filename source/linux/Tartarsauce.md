@@ -254,8 +254,8 @@ fi
 
 So, important but tiny points:
 
-1. tar .**/var/www/html/**file instead of ./file
-2. compile into a **x86** and **static** elf binary file `$ gcc qwe.c -m32 -static -o a`
+1. tar **./var/www/html/file** instead of ./file
+2. compile the source code to a **x86** and **static** elf binary file `$ gcc qwe.c -m32 -static -o a`
 
 Exploiting:
 
@@ -271,7 +271,9 @@ Exploiting:
 
 ![image-20231218082023184](./Tartarsauce.assets/image-20231218082023184.png)
 
-Lastly, the automatic script is in [zhsh9/HTB-TartarSauce-PrivEsca: TartarSauce: privilege escalation process from onuma to root. (github.com)](https://github.com/zhsh9/HTB-TartarSauce-PrivEsca). Press a star button if you like this writeup and scripts.
+![image-20231218083006693](./Tartarsauce.assets/image-20231218083006693.png)
+
+**Lastly**, the automatic script is in [zhsh9/HTB-TartarSauce-PrivEsca: TartarSauce: privilege escalation process from onuma to root. (github.com)](https://github.com/zhsh9/HTB-TartarSauce-PrivEsca). Press a star button if you like this writeup and scripts.
 
 ## Exploit Chain
 
