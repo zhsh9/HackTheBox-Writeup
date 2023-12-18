@@ -20,3 +20,4 @@ OSCP Like Machine: Linux Boxes
    Poison (Medium) <Poison>
    Sunday (Easy) <Sunday>
    Tartarsauce (Medium) <Tartarsauce>
+   Irked (Easy) <Irked>
