@@ -30,6 +30,8 @@
 | Poison             | [Poison](https://app.hackthebox.com/machines/Poison)         | [Poison](https://htbwp.readthedocs.io/en/latest/linux/Poison.html) | Medium     |
 | Sunday             | [Sunday](https://app.hackthebox.com/machines/Sunday)         | [Sunday](https://htbwp.readthedocs.io/en/latest/linux/Sunday.html) | Easy       |
 | Tartarsauce        | [Tartarsauce](https://app.hackthebox.com/machines/Tartarsauce) | [Tartarsauce](https://htbwp.readthedocs.io/en/latest/linux/Tartarsauce.html) | Medium     |
+| Irked              | [Irked](https://app.hackthebox.com/machines/Irked)           | [Irked](https://htbwp.readthedocs.io/en/latest/linux/Irked.html) | Easy     |
+| Friendzone         | [Friendzone](https://app.hackthebox.com/machines/Friendzone) | [Friendzone](https://htbwp.readthedocs.io/en/latest/linux/Friendzone.html) | Easy     |
 
 - [x] Lame
 - [x] Brainfuck (Insane)
