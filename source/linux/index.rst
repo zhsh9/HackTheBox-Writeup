@@ -21,3 +21,4 @@ OSCP Like Machine: Linux Boxes
    Sunday (Easy) <Sunday>
    Tartarsauce (Medium) <Tartarsauce>
    Irked (Easy) <Irked>
+   Friendzone (Easy) <Friendzone>
