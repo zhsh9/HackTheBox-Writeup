@@ -151,7 +151,7 @@ rooting your box, if malicious content is placed inside the file.
 
 ![image-20231213080235189](./Nineveh.assets/image-20231213080235189.png)
 
-- knock on the local host, `knock $IP 571 290 911`
+- knock on the local host, `knock $IP 571 290 911` or `for x in 571 290 911;do nmap -Pn --max-retries 0 -p $x 10.10.10.43; done`
 
 - sensitive image: `/var/www/ssl/secure_notes/nineveh.png`, find hidden text
 - by **strings**
