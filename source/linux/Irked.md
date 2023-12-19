@@ -2,6 +2,8 @@
 
 ## Machine Info
 
+![Irked](./Irked.assets/Irked.png)
+
 ## Recon
 
 - nmap

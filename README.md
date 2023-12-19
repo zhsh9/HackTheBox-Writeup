@@ -48,7 +48,7 @@
 - [x] Poison
 - [x] Sunday
 - [x] Tartarsauce
-- [ ] Irked
+- [x] Irked
 - [ ] Friendzone
 - [ ] Swagshop
 - [ ] Networked
