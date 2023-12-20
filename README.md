@@ -49,7 +49,7 @@
 - [x] Sunday
 - [x] Tartarsauce
 - [x] Irked
-- [ ] Friendzone
+- [x] Friendzone
 - [ ] Swagshop
 - [ ] Networked
 - [ ] jarvis
