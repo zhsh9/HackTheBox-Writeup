@@ -2,6 +2,8 @@
 
 ## Machine Info
 
+![FriendZone](./Friendzone.assets/FriendZone.png)
+
 ## Recon
 
 - nmap
