@@ -5,7 +5,7 @@
   - [Linux Boxes](#linux-boxes)
   - [Windows Boxes](#windows-boxes)
   - [More Challenging Boxes](#more-challenging-boxes)
-- [Open Beta Season](#open-beta-season)
+- [Open Beta Season III](#open-beta-season-iii)
   - [Linux Boxes](#linux-boxes-1)
   - [Windows Boxes](#windows-boxes-1)
 
@@ -34,24 +34,6 @@
 | Friendzone         | [Friendzone](https://app.hackthebox.com/machines/Friendzone) | [Friendzone](https://htbwp.readthedocs.io/en/latest/linux/Friendzone.html) | Easy     |
 | Swagshop           | [Swagshop](https://app.hackthebox.com/machines/Swagshop) | [Swagshop](https://htbwp.readthedocs.io/en/latest/linux/Swagshop.html) | Easy     |
 
-- [x] Lame
-- [x] Brainfuck (Insane)
-- [x] Shocker
-- [x] Bashed
-- [x] Nibbles
-- [x] Beep
-- [x] Cronos
-- [x] Nineveh
-- [x] Sense
-- [x] Solidstate
-- [x] Node
-- [x] Valentine
-- [x] Poison
-- [x] Sunday
-- [x] Tartarsauce
-- [x] Irked
-- [x] Friendzone
-- [x] Swagshop
 - [ ] Networked
 - [ ] jarvis
 - [ ] Mirai
@@ -181,7 +163,7 @@
 - [ ] Search [Windows]
 - [ ] Undetected [Linux] (More like an IR box)
 
-# Open Beta Season
+# Open Beta Season III
 
 ## Linux Boxes
 
