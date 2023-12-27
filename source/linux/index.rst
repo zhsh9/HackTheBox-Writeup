@@ -22,3 +22,4 @@ OSCP Like Machine: Linux Boxes
    Tartarsauce (Medium) <Tartarsauce>
    Irked (Easy) <Irked>
    Friendzone (Easy) <Friendzone>
+   Swagshop (Easy) <Swagshop>
