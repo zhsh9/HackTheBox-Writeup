@@ -12,3 +12,4 @@ Machine List
    linux/index
    season3/linux/index
    season3/windows/index
+   sherlocks/index
