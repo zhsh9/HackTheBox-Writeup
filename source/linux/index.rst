@@ -23,3 +23,4 @@ OSCP Like Machine: Linux Boxes
    Irked (Easy) <Irked>
    Friendzone (Easy) <Friendzone>
    Swagshop (Easy) <Swagshop>
+   Networked (Easy) <Networked>
