@@ -24,3 +24,4 @@ OSCP Like Machine: Linux Boxes
    Friendzone (Easy) <Friendzone>
    Swagshop (Easy) <Swagshop>
    Networked (Easy) <Networked>
+   Jarvis (Medium) <Jarvis>

@@ -35,8 +35,8 @@
 | Friendzone         | [Friendzone](https://app.hackthebox.com/machines/Friendzone) | [Friendzone](https://htbwp.readthedocs.io/en/latest/linux/Friendzone.html) | Easy     |
 | Swagshop           | [Swagshop](https://app.hackthebox.com/machines/Swagshop) | [Swagshop](https://htbwp.readthedocs.io/en/latest/linux/Swagshop.html) | Easy     |
 | Networked          | [Networked](https://app.hackthebox.com/machines/Networked) | [Networked](https://htbwp.readthedocs.io/en/latest/linux/Networked.html) | Easy     |
+| Jarvis             | [Jarvis](https://app.hackthebox.com/machines/Jarvis) | [Jarvis](https://htbwp.readthedocs.io/en/latest/linux/Jarvis.html) | Medium     |
 
-- [ ] jarvis
 - [ ] Mirai
 - [ ] Popcorn
 - [ ] Haircut
@@ -196,4 +196,4 @@
 
 | Case Name | HackTheBox Link                                              | Writeup | Difficulty |
 | --------- | ------------------------------------------------------------ | ------- | ---------- |
-| Meerkat   | [Meerkat](https://app.hackthebox.com/sherlocks/Meerkat) |         | Easy       |
+| Meerkat   | [Meerkat](https://app.hackthebox.com/sherlocks/Meerkat) | [Meerkat](https://htbwp.readthedocs.io/en/latest/sherlocks/Meerkat.html)  | Easy       |
