@@ -8,6 +8,7 @@
 - [Open Beta Season III](#open-beta-season-iii)
   - [Linux Boxes](#linux-boxes-1)
   - [Windows Boxes](#windows-boxes-1)
+- [Sherlocks](#sherlocks)
 
 # OSCP Like Boxes
 
@@ -16,7 +17,7 @@
 | Box Name           | HackTheBox Link                                              | Writeup                                                      | Difficulty |
 | ------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- |
 | Lame               | [Lame](https://app.hackthebox.com/machines/Lame)             | [Lame](https://htbwp.readthedocs.io/en/latest/linux/Lame.html) | Easy       |
-| Brainfuck (Insane) | [Brainfuck](https://app.hackthebox.com/machines/Brainfuck)   | [Brainfuck](https://htbwp.readthedocs.io/en/latest/linux/Brainfuck.html) | Insane     |
+| Brainfuck          | [Brainfuck](https://app.hackthebox.com/machines/Brainfuck)   | [Brainfuck](https://htbwp.readthedocs.io/en/latest/linux/Brainfuck.html) | Insane     |
 | Shocker            | [Shocker](https://app.hackthebox.com/machines/Shocker)       | [Shocker](https://htbwp.readthedocs.io/en/latest/linux/Shocker.html) | Easy       |
 | Bashed             | [Bashed](https://app.hackthebox.com/machines/Bashed)         | [Bashed](https://htbwp.readthedocs.io/en/latest/linux/Bashed.html) | Easy       |
 | Nibbles            | [Nibbles](https://app.hackthebox.com/machines/Nibbles)       | [Nibbles](https://htbwp.readthedocs.io/en/latest/linux/Nibbles.html) | Easy       |
@@ -33,8 +34,8 @@
 | Irked              | [Irked](https://app.hackthebox.com/machines/Irked)           | [Irked](https://htbwp.readthedocs.io/en/latest/linux/Irked.html) | Easy     |
 | Friendzone         | [Friendzone](https://app.hackthebox.com/machines/Friendzone) | [Friendzone](https://htbwp.readthedocs.io/en/latest/linux/Friendzone.html) | Easy     |
 | Swagshop           | [Swagshop](https://app.hackthebox.com/machines/Swagshop) | [Swagshop](https://htbwp.readthedocs.io/en/latest/linux/Swagshop.html) | Easy     |
+| Networked          | [Networked](https://app.hackthebox.com/machines/Networked) | [Networked](https://htbwp.readthedocs.io/en/latest/linux/Networked.html) | Easy     |
 
-- [ ] Networked
 - [ ] jarvis
 - [ ] Mirai
 - [ ] Popcorn
@@ -190,3 +191,9 @@
 | Authority | [Authority](https://app.hackthebox.com/machines/Authority) | [Authority](https://htbwp.readthedocs.io/en/latest/season3/windows/Authority.html#) | Medium     |
 | Manager   | [Manager](https://app.hackthebox.com/machines/Manager)     | [Manager](https://htbwp.readthedocs.io/en/latest/season3/windows/Manager.html) | Medium     |
 | Visual    | [Visual](https://app.hackthebox.com/machines/Visual)       | [Visual](https://htbwp.readthedocs.io/en/latest/season3/windows/Visual.html) | Medium     |
+
+# Sherlocks
+
+| Case Name | HackTheBox Link                                              | Writeup | Difficulty |
+| --------- | ------------------------------------------------------------ | ------- | ---------- |
+| Meerkat   | [Meerkat](https://app.hackthebox.com/sherlocks/Meerkat) |         | Easy       |
