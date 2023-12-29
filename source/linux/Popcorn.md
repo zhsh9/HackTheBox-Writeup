@@ -2,6 +2,8 @@
 
 ## Machine Info
 
+![Popcorn](./Popcorn.assets/Popcorn.png)
+
 ## Recon
 
 - nmap
@@ -146,7 +148,7 @@ www-data@popcorn:/home/george$ find . -type f -ls
    107    4 -rw-r--r--   1 george   george        675 Mar 17  2017 ./.profile
 ```
 
-### CVE-2010-0832
+### Script Exploit of CVE-2010-0832
 
 **PAM_MOTD** (aka the MOTD module) in libpam-modules before 1.1.0-2ubuntu1.1 in PAM on Ubuntu 9.10 and libpam-modules before 1.1.1-2ubuntu5 in PAM on Ubuntu 10.04 LTS allows local users to change the ownership of arbitrary files via a symlink attack on .cache in a user's home directory, related to "user file stamps" and the motd.legal-notice file.
 
