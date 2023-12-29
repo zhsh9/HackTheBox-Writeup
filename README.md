@@ -36,8 +36,8 @@
 | Swagshop           | [Swagshop](https://app.hackthebox.com/machines/Swagshop) | [Swagshop](https://htbwp.readthedocs.io/en/latest/linux/Swagshop.html) | Easy     |
 | Networked          | [Networked](https://app.hackthebox.com/machines/Networked) | [Networked](https://htbwp.readthedocs.io/en/latest/linux/Networked.html) | Easy     |
 | Jarvis             | [Jarvis](https://app.hackthebox.com/machines/Jarvis) | [Jarvis](https://htbwp.readthedocs.io/en/latest/linux/Jarvis.html) | Medium     |
+| Mirai              | [Mirai](https://app.hackthebox.com/machines/Mirai) | [Mirai](https://htbwp.readthedocs.io/en/latest/linux/Mirai.html) | Easy     |
 
-- [ ] Mirai
 - [ ] Popcorn
 - [ ] Haircut
 - [ ] Blocky

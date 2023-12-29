@@ -25,3 +25,4 @@ OSCP Like Machine: Linux Boxes
    Swagshop (Easy) <Swagshop>
    Networked (Easy) <Networked>
    Jarvis (Medium) <Jarvis>
+   Mirai (Easy) <Mirai>
