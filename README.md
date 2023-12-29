@@ -37,8 +37,8 @@
 | Networked          | [Networked](https://app.hackthebox.com/machines/Networked) | [Networked](https://htbwp.readthedocs.io/en/latest/linux/Networked.html) | Easy     |
 | Jarvis             | [Jarvis](https://app.hackthebox.com/machines/Jarvis) | [Jarvis](https://htbwp.readthedocs.io/en/latest/linux/Jarvis.html) | Medium     |
 | Mirai              | [Mirai](https://app.hackthebox.com/machines/Mirai) | [Mirai](https://htbwp.readthedocs.io/en/latest/linux/Mirai.html) | Easy     |
+| Popcorn            | [Popcorn](https://app.hackthebox.com/machines/Popcorn) | [Popcorn](https://htbwp.readthedocs.io/en/latest/linux/Popcorn.html) | Medium     |
 
-- [ ] Popcorn
 - [ ] Haircut
 - [ ] Blocky
 - [ ] Frolic
