@@ -1,5 +1,5 @@
-Open Beta Season III: Windows Boxes
-===================================
+[Open Beta Season III] Windows Boxes
+====================================
 
 .. toctree::
     :numbered:

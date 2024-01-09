@@ -1,5 +1,5 @@
-Open Beta Season III: Linux Boxes
-=================================
+[Open Beta Season III] Linux Boxes
+==================================
 
 .. toctree::
     :numbered:

@@ -10,6 +10,7 @@ Machine List
    :maxdepth: 2
 
    linux/index
+   sherlocks/index
    season3/linux/index
    season3/windows/index
-   sherlocks/index
+   season4/linux/index
