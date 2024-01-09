@@ -249,7 +249,7 @@ SHA-256
   2. salt value = d
   3. hash value is base64 encoded
 
-[1] method: hashcat
+**[1] method: hashcat**
 
 - `uP0_QaVBpDWFeo8-dRzDqRwXQ2I=` -> `b8fd3f41a541a435857a8f3e751cc3a91c174362`
 
@@ -275,7 +275,7 @@ $ hashcat -m 110 -a 0 hash /usr/share/wordlists/rockyou.txt --show
 b8fd3f41a541a435857a8f3e751cc3a91c174362:d:monkeybizness
 ```
 
-[2] method: python script to decrypt
+**[2] method: python script to decrypt**
 
 ```py
 import hashlib
