@@ -5,10 +5,13 @@
   - [Linux Boxes](#linux-boxes)
   - [Windows Boxes](#windows-boxes)
   - [More Challenging Boxes](#more-challenging-boxes)
+- [Sherlocks](#sherlocks)
 - [Open Beta Season III](#open-beta-season-iii)
   - [Linux Boxes](#linux-boxes-1)
   - [Windows Boxes](#windows-boxes-1)
-- [Sherlocks](#sherlocks)
+- [Open Beta Season IV](#open-beta-season-iv)
+  - [Linux Boxes](#linux-boxes-2)
+  - [Windows Boxes](#windows-boxes-2)
 
 # OSCP Like Boxes
 
@@ -164,6 +167,12 @@
 - [ ] Search [Windows]
 - [ ] Undetected [Linux] (More like an IR box)
 
+# Sherlocks
+
+| Case Name | HackTheBox Link                                              | Writeup | Difficulty |
+| --------- | ------------------------------------------------------------ | ------- | ---------- |
+| Meerkat   | [Meerkat](https://app.hackthebox.com/sherlocks/Meerkat) | [Meerkat](https://htbwp.readthedocs.io/en/latest/sherlocks/Meerkat.html)  | Easy       |
+
 # Open Beta Season III
 
 ## Linux Boxes
@@ -192,8 +201,12 @@
 | Manager   | [Manager](https://app.hackthebox.com/machines/Manager)     | [Manager](https://htbwp.readthedocs.io/en/latest/season3/windows/Manager.html) | Medium     |
 | Visual    | [Visual](https://app.hackthebox.com/machines/Visual)       | [Visual](https://htbwp.readthedocs.io/en/latest/season3/windows/Visual.html) | Medium     |
 
-# Sherlocks
+# Open Beta Season IV
 
-| Case Name | HackTheBox Link                                              | Writeup | Difficulty |
-| --------- | ------------------------------------------------------------ | ------- | ---------- |
-| Meerkat   | [Meerkat](https://app.hackthebox.com/sherlocks/Meerkat) | [Meerkat](https://htbwp.readthedocs.io/en/latest/sherlocks/Meerkat.html)  | Easy       |
+## Linux Boxes
+
+| Box Name           | HackTheBox Link                                              | Writeup                                                      | Difficulty                                          |
+| ------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Bizness             | [Bizness](https://app.hackthebox.com/machines/Bizness)         | [Bizness](https://htbwp.readthedocs.io/en/latest/season4/linux/Bizness.html#) | Easy |
+
+## Windows Boxes
