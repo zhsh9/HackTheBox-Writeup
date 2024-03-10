@@ -9,3 +9,4 @@
     Monitored (Medium) <Monitored>
     Skyfall (Insane) <Skyfall>
     Perfection (Easy) <Perfection>
+    FormulaX (Hard) <FormulaX>
