@@ -18,3 +18,4 @@
    Jerry (Easy) <Jerry>
    Conceal (Hard) <Conceal>
    Chatterbox (Medium) <Chatterbox>
+   Forest (Easy) <Forest>
