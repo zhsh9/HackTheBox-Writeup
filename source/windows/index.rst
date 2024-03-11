@@ -20,5 +20,6 @@
    Chatterbox (Medium) <Chatterbox>
    Forest (Easy) <Forest>
    Driver (Easy) <Driver>
+   Return (Easy) <Return>
    Support (Easy) <Support>
    Timelapse (Easy) <Timelapse>
