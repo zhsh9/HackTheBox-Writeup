@@ -19,5 +19,6 @@
    Conceal (Hard) <Conceal>
    Chatterbox (Medium) <Chatterbox>
    Forest (Easy) <Forest>
+   Driver (Easy) <Driver>
    Support (Easy) <Support>
    Timelapse (Easy) <Timelapse>

@@ -131,10 +131,10 @@ More challenging machines:
 | Conceal    | [Conceal](https://app.hackthebox.com/machines/Conceal)   | [Conceal](https://htbwp.readthedocs.io/en/latest/windows/Conceal.html) | 2018         | Easy       |
 | Chatterbox | [Chatterbox](https://app.hackthebox.com/machines/Chatterbox)   | [Chatterbox](https://htbwp.readthedocs.io/en/latest/windows/Chatterbox.html) | 2018         | Mediums       |
 | Forest     | [Forest](https://app.hackthebox.com/machines/Forest)   | [Forest](https://htbwp.readthedocs.io/en/latest/windows/Forest.html) | 2019     | Easy       |
+| Driver     | [Driver](https://app.hackthebox.com/machines/Driver)   | [Driver](https://htbwp.readthedocs.io/en/latest/windows/Driver.html) | 2021     | Easy       |
 | Support    | [Support](https://app.hackthebox.com/machines/Support)   | [Support](https://htbwp.readthedocs.io/en/latest/windows/Support.html) | 2022     | Easy       |
 | Timelapse  | [Timelapse](https://app.hackthebox.com/machines/Timelapse)   | [Timelapse](https://htbwp.readthedocs.io/en/latest/windows/Timelapse.html) | 2022     | Easy       |
 
-- [x] Driver
 - [x] Return
 - [x] Love
 - [ ] BankRobber
