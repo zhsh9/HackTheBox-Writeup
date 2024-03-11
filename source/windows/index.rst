@@ -20,3 +20,4 @@
    Chatterbox (Medium) <Chatterbox>
    Forest (Easy) <Forest>
    Support (Easy) <Support>
+   Timelapse (Easy) <Timelapse>
