@@ -19,3 +19,4 @@
    Conceal (Hard) <Conceal>
    Chatterbox (Medium) <Chatterbox>
    Forest (Easy) <Forest>
+   Support (Easy) <Support>
