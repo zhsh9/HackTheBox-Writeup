@@ -17,3 +17,4 @@
    Bounty (Easy) <Bounty>
    Jerry (Easy) <Jerry>
    Conceal (Hard) <Conceal>
+   Chatterbox (Medium) <Chatterbox>

@@ -129,8 +129,8 @@ More challenging machines:
 | Bounty   | [Bounty](https://app.hackthebox.com/machines/Bounty)   | [Bounty](https://htbwp.readthedocs.io/en/latest/windows/Bounty.html) | 2018         | Easy       |
 | Jerry      | [Jerry](https://app.hackthebox.com/machines/Jerry)   | [Jerry](https://htbwp.readthedocs.io/en/latest/windows/Jerry.html) | 2018         | Easy       |
 | Conceal    | [Conceal](https://app.hackthebox.com/machines/Conceal)   | [Conceal](https://htbwp.readthedocs.io/en/latest/windows/Conceal.html) | 2018         | Easy       |
+| Chatterbox | [Chatterbox](https://app.hackthebox.com/machines/Chatterbox)   | [Chatterbox](https://htbwp.readthedocs.io/en/latest/windows/Chatterbox.html) | 2018         | Mediums       |
 
-- [x] Chatterbox
 - [x] Forest
 - [x] Support
 - [x] Timelapse
