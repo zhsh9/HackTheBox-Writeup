@@ -21,5 +21,6 @@
    Forest (Easy) <Forest>
    Driver (Easy) <Driver>
    Return (Easy) <Return>
+   Love (Easy) <Love>
    Support (Easy) <Support>
    Timelapse (Easy) <Timelapse>

@@ -133,10 +133,10 @@ More challenging machines:
 | Forest     | [Forest](https://app.hackthebox.com/machines/Forest)   | [Forest](https://htbwp.readthedocs.io/en/latest/windows/Forest.html) | 2019     | Easy       |
 | Driver     | [Driver](https://app.hackthebox.com/machines/Driver)   | [Driver](https://htbwp.readthedocs.io/en/latest/windows/Driver.html) | 2021     | Easy       |
 | Return     | [Return](https://app.hackthebox.com/machines/Return)   | [Timelapse](https://htbwp.readthedocs.io/en/latest/windows/Return.html) | 2021     | Easy       |
+| Love       | [Love](https://app.hackthebox.com/machines/Love)   | [Love](https://htbwp.readthedocs.io/en/latest/windows/Love.html) | 2021    | Easy       |
 | Support    | [Support](https://app.hackthebox.com/machines/Support)   | [Support](https://htbwp.readthedocs.io/en/latest/windows/Support.html) | 2022     | Easy       |
 | Timelapse  | [Timelapse](https://app.hackthebox.com/machines/Timelapse)   | [Timelapse](https://htbwp.readthedocs.io/en/latest/windows/Timelapse.html) | 2022     | Easy       |
 
-- [x] Love
 - [ ] BankRobber
 - [ ] Cereal
 - [ ] secnotes
