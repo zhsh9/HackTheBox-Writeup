@@ -86,6 +86,10 @@
 
 </details>
 
+<details>
+<br>
+<summary> [TODO] Linux Machines </summary>
+
 - [ ] Intentions
 - [ ] Soccer
 - [ ] Mentor
@@ -113,6 +117,8 @@ More challenging machines:
 - [ ] Backdoor
 - [ ] AdmirerToo
 - [ ] Undetected
+
+</details>
 
 ## Windows Machines
 
@@ -143,6 +149,10 @@ More challenging machines:
 | Timelapse  | [Timelapse](https://app.hackthebox.com/machines/Timelapse)   | [Timelapse](https://htbwp.readthedocs.io/en/latest/windows/Timelapse.html) | 2022         | Easy       |
 
 </details>
+
+<details>
+<br>
+<summary> [TODO] Windows Machines </summary>
 
 - [ ] BankRobber
 - [ ] Cereal
@@ -189,14 +199,22 @@ More challenging machines:
 - [ ] Monteverde
 - [ ] Search
 
+</details>
+
 # Challenges
 
 ## Web
+
+<details>
+<br>
+<summary> Challenge: Web </summary>
 
 | Challenge Name | HackTheBox Link                                          | Writeup                                                      | Difficulty |
 | -------------- | -------------------------------------------------------- | ------------------------------------------------------------ | ---------- |
 | LoveTok        | [LoveTok](https://app.hackthebox.com/challenges/LoveTok) | [LoveTok](https://htbwp.readthedocs.io/en/latest/challenges/web/LoveTok.html) | Easy       |
 | Toxic          | [Toxic](https://app.hackthebox.com/challenges/Toxic)     | [Toxic](https://htbwp.readthedocs.io/en/latest/challenges/web/Toxic.html) | Easy       |
+
+</details>
 
 ## Pwn
 
@@ -208,9 +226,15 @@ More challenging machines:
 
 # Sherlocks
 
+<details>
+<br>
+<summary> Sherlocks: SOC </summary>
+
 | Case Name | HackTheBox Link                                         | Writeup                                                      | Release Date | Category | Difficulty |
 | --------- | ------------------------------------------------------- | ------------------------------------------------------------ | ------------ | -------- | ---------- |
 | Meerkat   | [Meerkat](https://app.hackthebox.com/sherlocks/Meerkat) | [Meerkat](https://htbwp.readthedocs.io/en/latest/sherlocks/Meerkat.html) | 13 Nov, 2023 | SOC      | Easy       |
+
+</details>
 
 # Season III
 
