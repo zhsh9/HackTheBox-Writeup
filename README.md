@@ -23,6 +23,10 @@
 
 ## Linux Machines
 
+<details>
+<br>
+<summary> Linux Machines </summary>
+
 | Box Name     | HackTheBox Link                                              | Writeup                                                      | Release Date | Difficulty |
 | ------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------ | ---------- |
 | Lame         | [Lame](https://app.hackthebox.com/machines/Lame)             | [Lame](https://htbwp.readthedocs.io/en/latest/linux/Lame.html) | 2017         | Easy       |
@@ -85,6 +89,8 @@
 | UpDown       | [UpDown](https://app.hackthebox.com/machines/UpDown)         | [UpDown](https://htbwp.readthedocs.io/en/latest/linux/UpDown.html) | 2022         | Medium     |
 | Broker       | [Broker](https://app.hackthebox.com/machines/Broker)         | [Broker](https://htbwp.readthedocs.io/en/latest/linux/Broker.html) | 2023         | Easy       |
 
+</details>
+
 - [ ] Intentions
 - [ ] Soccer
 - [ ] Mentor
@@ -115,6 +121,10 @@ More challenging machines:
 
 ## Windows Machines
 
+<details>
+<br>
+<summary> Linux Machines </summary>
+
 | Box Name   | HackTheBox Link                                              | Writeup                                                      | Release Date | Difficulty |
 | ---------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------ | ---------- |
 | Legacy     | [Legacy](https://app.hackthebox.com/machines/Legacy)         | [Legacy](https://htbwp.readthedocs.io/en/latest/windows/Legacy.html) | 2017         | Easy       |
@@ -136,6 +146,8 @@ More challenging machines:
 | Love       | [Love](https://app.hackthebox.com/machines/Love)             | [Love](https://htbwp.readthedocs.io/en/latest/windows/Love.html) | 2021         | Easy       |
 | Support    | [Support](https://app.hackthebox.com/machines/Support)       | [Support](https://htbwp.readthedocs.io/en/latest/windows/Support.html) | 2022         | Easy       |
 | Timelapse  | [Timelapse](https://app.hackthebox.com/machines/Timelapse)   | [Timelapse](https://htbwp.readthedocs.io/en/latest/windows/Timelapse.html) | 2022         | Easy       |
+
+</details>
 
 - [ ] BankRobber
 - [ ] Cereal
@@ -207,7 +219,9 @@ More challenging machines:
 
 # Season III
 
-## Linux Machines
+<details>
+<br>
+<summary> Linux Machines </summary>
 
 | Box Name           | HackTheBox Link                                              | Writeup                                                      | Release Date                                          | Difficulty                                          |
 | ------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -224,7 +238,11 @@ More challenging machines:
 | Ouija        | [Ouija](https://app.hackthebox.com/machines/Ouija)           | [Ouija](https://htbwp.readthedocs.io/en/latest/season3/linux/Ouija.html) | 2023 | Insane |
 | Surveillance       | [Surveillance](https://app.hackthebox.com/machines/Surveillance) | [Surveillance](https://htbwp.readthedocs.io/en/latest/season3/linux/Surveillance.html) | 2023 | Medium |
 
-## Windows Machines
+</details>
+
+<details>
+<br>
+<summary> Windows Machines </summary>
     
 | Box Name  | HackTheBox Link                                            | Writeup                                                      | Release Date | Difficulty |
 | --------- | ---------------------------------------------------------- | ------------------------------------------------------------ | ------------ | ---------- |
@@ -234,9 +252,13 @@ More challenging machines:
 | Visual    | [Visual](https://app.hackthebox.com/machines/Visual)       | [Visual](https://htbwp.readthedocs.io/en/latest/season3/windows/Visual.html) | 2023         | Medium     |
 | Appsanity | [Appsanity](https://app.hackthebox.com/machines/Appsanity)       | [Appsanity](https://htbwp.readthedocs.io/en/latest/season3/windows/Appsanity.html) | 2023         | Hard     |
 
+</details>
+
 # Season IV🔥
 
-## Linux Machines
+<details>
+<br>
+<summary> Linux Machines </summary>
 
 | Box Name           | HackTheBox Link                                              | Writeup                                                      | Release Date                                          | Difficulty                                          |
 | ------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -246,7 +268,11 @@ More challenging machines:
 | Perfection          | [Perfection](https://app.hackthebox.com/machines/Perfection)         | [Perfection](https://htbwp.readthedocs.io/en/latest/season4/linux/Perfection.html) | 2024 | Easy |
 | FormulaX            | [FormulaX](https://app.hackthebox.com/machines/FormulaX)         | [FormulaX](https://htbwp.readthedocs.io/en/latest/season4/linux/FormulaX.html) | 2024 | Hard |
 
-## Windows Machines
+</details>
+
+<details>
+<br>
+<summary> Windows Machines </summary>
 
 | Box Name | HackTheBox Link                                          | Writeup                                                      | Release Date | Difficulty |
 | -------- | -------------------------------------------------------- | ------------------------------------------------------------ | ------------ | ---------- |
@@ -255,3 +281,5 @@ More challenging machines:
 |  Crafty  | [Crafty](https://app.hackthebox.com/machines/Crafty) | [Crafty](https://htbwp.readthedocs.io/en/latest/season4/windows/Crafty.html) | 2024         | Easy       |
 |  Office  | [Office](https://app.hackthebox.com/machines/Office) | [Undone]() | 2024         | Hard       |
 |  Jab  | [Jab](https://app.hackthebox.com/machines/Jab) | [Jab](https://htbwp.readthedocs.io/en/latest/season4/windows/Jab.html) | 2024         | Medium       |
+
+</details>
