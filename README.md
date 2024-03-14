@@ -4,7 +4,6 @@
 - [Machines](#machines)
   - [Linux Machines](#linux-machines)
   - [Windows Machines](#windows-machines)
-  - [More Challenging Machines](#more-challenging-machines)
 - [Challenges](#challenges)
   - [Web](#web)
   - [Pwn](#pwn)
@@ -13,11 +12,7 @@
   - [Crypto](#crypto)
 - [Sherlocks](#sherlocks)
 - [Season III](#season-iii)
-  - [Linux Boxes](#linux-boxes)
-  - [Windows Boxes](#windows-boxes)
 - [Season IV🔥](#season-iv)
-  - [Linux Boxes](#linux-boxes-1)
-  - [Windows Boxes](#windows-boxes-1)
 
 # Machines
 
@@ -123,7 +118,7 @@ More challenging machines:
 
 <details>
 <br>
-<summary> Linux Machines </summary>
+<summary> Windows Machines </summary>
 
 | Box Name   | HackTheBox Link                                              | Writeup                                                      | Release Date | Difficulty |
 | ---------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------ | ---------- |
