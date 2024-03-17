@@ -2,7 +2,9 @@
 
 ## Machine Info
 
-## Recon
+## Reconnaissance
+
+## Vulnerability Analysis
 
 ## Foothold
 

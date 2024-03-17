@@ -257,6 +257,7 @@ More challenging machines:
 | Skyfall             | [Skyfall](https://app.hackthebox.com/machines/Skyfall)         | [Skyfall](https://htbwp.readthedocs.io/en/latest/season4/linux/Skyfall.html) | 2024 | Insane |
 | Perfection          | [Perfection](https://app.hackthebox.com/machines/Perfection)         | [Perfection](https://htbwp.readthedocs.io/en/latest/season4/linux/Perfection.html) | 2024 | Easy |
 | FormulaX            | [FormulaX](https://app.hackthebox.com/machines/FormulaX)         | [FormulaX](https://htbwp.readthedocs.io/en/latest/season4/linux/FormulaX.html) | 2024 | Hard |
+| WifineticTwo        | [WifineticTwo](https://app.hackthebox.com/machines/WifineticTwo)         | [WifineticTwo](https://htbwp.readthedocs.io/en/latest/season4/linux/WifineticTwo.html) | 2024 | Medium |
 
 </details>
 

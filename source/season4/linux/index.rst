@@ -10,3 +10,4 @@
     Skyfall (Insane) <Skyfall>
     Perfection (Easy) <Perfection>
     FormulaX (Hard) <FormulaX>
+    WifineticTwo (Easy) <WifineticTwo>
