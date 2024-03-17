@@ -1,22 +1,4 @@
-# Table of Contents
-
-- [Table of Contents](#table-of-contents)
-- [Machines](#machines)
-  - [Linux Machines](#linux-machines)
-  - [Windows Machines](#windows-machines)
-- [Challenges](#challenges)
-  - [Web](#web)
-  - [Pwn](#pwn)
-  - [Reversing](#reversing)
-  - [Misc](#misc)
-  - [Crypto](#crypto)
-- [Sherlocks](#sherlocks)
-- [Season III](#season-iii)
-- [Season IV🔥](#season-iv)
-
-# Machines
-
-## Linux Machines
+## Machines
 
 <details>
 <br>
@@ -120,8 +102,6 @@ More challenging machines:
 
 </details>
 
-## Windows Machines
-
 <details>
 <br>
 <summary> Windows Machines </summary>
@@ -201,13 +181,12 @@ More challenging machines:
 
 </details>
 
-# Challenges
-
-## Web
+## Challenges
 
 <details>
 <br>
-<summary> Challenge: Web </summary>
+<summary> Challenges: Web </summary>
+
 
 | Challenge Name | HackTheBox Link                                          | Writeup                                                      | Difficulty |
 | -------------- | -------------------------------------------------------- | ------------------------------------------------------------ | ---------- |
@@ -216,15 +195,7 @@ More challenging machines:
 
 </details>
 
-## Pwn
-
-## Reversing
-
-## Misc
-
-## Crypto
-
-# Sherlocks
+## Sherlocks
 
 <details>
 <br>
@@ -236,7 +207,7 @@ More challenging machines:
 
 </details>
 
-# Season III
+## Season III
 
 <details>
 <br>
@@ -262,7 +233,7 @@ More challenging machines:
 <details>
 <br>
 <summary> Windows Machines </summary>
-    
+
 | Box Name  | HackTheBox Link                                            | Writeup                                                      | Release Date | Difficulty |
 | --------- | ---------------------------------------------------------- | ------------------------------------------------------------ | ------------ | ---------- |
 | Hospital  | [Hospital](https://app.hackthebox.com/machines/Hospital)   | [Hospital](https://htbwp.readthedocs.io/en/latest/season3/windows/Hospital.html#) | 2023         | Medium     |
@@ -273,7 +244,7 @@ More challenging machines:
 
 </details>
 
-# Season IV🔥
+## Season IV🔥
 
 <details>
 <br>
