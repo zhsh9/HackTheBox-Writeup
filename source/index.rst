@@ -12,6 +12,7 @@ Machine List
    linux/index
    windows/index
    challenges/web/index
+   challenges/osint/index
    sherlocks/index
    season3/linux/index
    season3/windows/index
