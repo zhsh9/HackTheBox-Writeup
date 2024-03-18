@@ -195,6 +195,17 @@ More challenging machines:
 
 </details>
 
+<details>
+<br>
+<summary> Challenges: OSINT </summary>
+
+
+| Challenge Name | HackTheBox Link                                          | Writeup                                                      | Difficulty |
+| -------------- | -------------------------------------------------------- | ------------------------------------------------------------ | ---------- |
+| ID Exposed        | [ID Exposed](https://app.hackthebox.com/challenges/ID%2520Exposed) | [ID Exposed](https://htbwp.readthedocs.io/en/latest/challenges/web/ID_Exposed.html) | Easy       |
+
+</details>
+
 ## Sherlocks
 
 <details>
