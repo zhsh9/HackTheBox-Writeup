@@ -204,6 +204,7 @@ More challenging machines:
 | ID Exposed        | [ID Exposed](https://app.hackthebox.com/challenges/ID%2520Exposed) | [ID Exposed](https://htbwp.readthedocs.io/en/latest/challenges/web/ID_Exposed.html) | Easy       |
 | Money Flowz       | [Money Flowz](https://app.hackthebox.com/challenges/Money%2520Flowz) | [Money Flowz](https://htbwp.readthedocs.io/en/latest/challenges/web/Money_Flowz.html) | Easy       |
 | Infiltration      | [Infiltration](https://app.hackthebox.com/challenges/Infiltration) | [Infiltration](https://htbwp.readthedocs.io/en/latest/challenges/web/Infiltration.html) | Easy       |
+| Easy Phish      | [Easy Phish](https://app.hackthebox.com/challenges/Easy%2520Phish) | [Easy Phish](https://htbwp.readthedocs.io/en/latest/challenges/web/Easy_Phish.html) | Easy       |
 
 </details>
 
