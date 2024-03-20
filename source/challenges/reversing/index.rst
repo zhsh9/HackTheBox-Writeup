@@ -6,5 +6,5 @@
    :maxdepth: 1
 
    Hunting License (Easy) <Hunting_License>
-   Shattered Tablet (Easy) <Shattered Tablet>
+   Shattered Tablet (Easy) <Shattered_Tablet>
    WIDE (Easy) <WIDE>
