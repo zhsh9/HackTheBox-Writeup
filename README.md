@@ -208,6 +208,18 @@ More challenging machines:
 
 </details>
 
+<details>
+<br>
+<summary> Challenges: Reversing </summary>
+
+
+| Challenge Name | HackTheBox Link                                          | Writeup                                                      | Difficulty |
+| -------------- | -------------------------------------------------------- | ------------------------------------------------------------ | ---------- |
+| Hunting License        | [Hunting License](https://app.hackthebox.com/challenges/Hunting%2520License) | [Hunting License](https://htbwp.readthedocs.io/en/latest/challenges/web/Hunting_License.html) | Easy       |
+| Shattered Tablet       | [Shattered Tablet](https://app.hackthebox.com/challenges/Shattered%2520Tablet) | [Shattered Tablet](https://htbwp.readthedocs.io/en/latest/challenges/web/Shattered_Tablet.html) | Easy       |
+
+</details>
+
 ## Sherlocks
 
 <details>
