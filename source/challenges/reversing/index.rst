@@ -7,3 +7,4 @@
 
    Hunting License (Easy) <Hunting_License>
    Shattered Tablet (Easy) <Shattered Tablet>
+   WIDE (Easy) <WIDE>

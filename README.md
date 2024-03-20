@@ -217,6 +217,7 @@ More challenging machines:
 | -------------- | -------------------------------------------------------- | ------------------------------------------------------------ | ---------- |
 | Hunting License        | [Hunting License](https://app.hackthebox.com/challenges/Hunting%2520License) | [Hunting License](https://htbwp.readthedocs.io/en/latest/challenges/web/Hunting_License.html) | Easy       |
 | Shattered Tablet       | [Shattered Tablet](https://app.hackthebox.com/challenges/Shattered%2520Tablet) | [Shattered Tablet](https://htbwp.readthedocs.io/en/latest/challenges/web/Shattered_Tablet.html) | Easy       |
+| WIDE                   | [WIDE](https://app.hackthebox.com/challenges/WIDE) | [WIDE](https://htbwp.readthedocs.io/en/latest/challenges/web/WIDE.html) | Easy       |
 
 </details>
 
