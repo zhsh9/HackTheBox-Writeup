@@ -64,3 +64,4 @@
    Busqueda (Easy) <Busqueda>
    UpDown (Medium) <UpDown>
    Broker (Easy) <Broker>
+   Intentions (Hard) <Intentions>

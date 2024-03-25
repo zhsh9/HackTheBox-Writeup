@@ -65,6 +65,7 @@
 | Busqueda     | [Busqueda](https://app.hackthebox.com/machines/Busqueda)     | [Busqueda](https://htbwp.readthedocs.io/en/latest/linux/Busqueda.html) | 2022         | Easy       |
 | UpDown       | [UpDown](https://app.hackthebox.com/machines/UpDown)         | [UpDown](https://htbwp.readthedocs.io/en/latest/linux/UpDown.html) | 2022         | Medium     |
 | Broker       | [Broker](https://app.hackthebox.com/machines/Broker)         | [Broker](https://htbwp.readthedocs.io/en/latest/linux/Broker.html) | 2023         | Easy       |
+| Intentions   | [Intentions](https://app.hackthebox.com/machines/Intentions)         | [Intentions](https://htbwp.readthedocs.io/en/latest/linux/Intentions.html) | 2023         | Hard       |
 
 </details>
 
@@ -72,7 +73,6 @@
 <br>
 <summary> [TODO] Linux Machines </summary>
 
-- [ ] Intentions
 - [ ] Soccer
 - [ ] Mentor
 - [ ] Cerberus
