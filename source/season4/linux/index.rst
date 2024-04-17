@@ -12,3 +12,4 @@
     FormulaX (Hard) <FormulaX>
     WifineticTwo (Medium) <WifineticTwo>
     Headless (Easy) <Headless>
+    Usage (Easy) <Usage>

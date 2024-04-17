@@ -270,7 +270,7 @@ More challenging machines:
 
 </details>
 
-## Season IV🔥
+## Season IV
 
 <details>
 <br>
@@ -285,6 +285,7 @@ More challenging machines:
 | FormulaX            | [FormulaX](https://app.hackthebox.com/machines/FormulaX)         | [FormulaX](https://htbwp.readthedocs.io/en/latest/season4/linux/FormulaX.html) | 2024 | Hard |
 | WifineticTwo        | [WifineticTwo](https://app.hackthebox.com/machines/WifineticTwo)         | [WifineticTwo](https://htbwp.readthedocs.io/en/latest/season4/linux/WifineticTwo.html) | 2024 | Medium |
 | Headless            | [Headless](https://app.hackthebox.com/machines/Headless)         | [Headless](https://htbwp.readthedocs.io/en/latest/season4/linux/Headless.html) | 2024 | Easy |
+| Usage               | [Usage](https://app.hackthebox.com/machines/Usage)         | [Usage](https://htbwp.readthedocs.io/en/latest/season4/linux/Usage.html) | 2024 | Easy |
 
 </details>
 
